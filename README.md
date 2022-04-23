@@ -2,9 +2,10 @@
 
 ## I'm a software engineering student passionate about backend development!
 
-- 🌱 I’m currently(and constantly) learning .NET Core and Nodejs
-- 🥅 2022 Goals: Learn more.
-- ⚡ Fun fact: I love football
+- 🌱 I’m currently(and constantly) learning **.NET Core and Nodejs**
+- 🥅 2022 Goals: **Learn more.**
+- 📫 How to reach me **kenan.genjac7@gmail.com**
+- ⚡ Fun fact: **I love football**
 
 ### Connect with me:
 
@@ -32,8 +33,11 @@
 ### Stats
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+  <br/>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kenangenjac&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+ 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenangenjac&" alt="kenangenjac" />
+
 
 </details>
 
