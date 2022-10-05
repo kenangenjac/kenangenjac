@@ -1,11 +1,10 @@
 # Hi there, I'm Kenan 👋 
 
-## I'm a software engineering student passionate about backend development!
+## I'm a software engineer passionate about backend development!
 
-- 🌱 I’m currently(and constantly) learning **.NET Core and Nodejs**
+- 🌱 I’m currently(and constantly) learning and working on ** Sprfing Boot, .NET and Node.js**
 - 🥅 2022 Goals: **Learn more.**
 - 📫 How to reach me **kenan.genjac7@gmail.com**
-- ⚡ Fun fact: **I love football**
 
 ### Connect with me:
 
